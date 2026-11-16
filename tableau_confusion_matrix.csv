@@ -1,0 +1,13 @@
+Model,Actual,Predicted,Count
+Naive Bayes,Negative,Negative,1944
+Naive Bayes,Negative,Positive,832
+Naive Bayes,Positive,Negative,552
+Naive Bayes,Positive,Positive,2672
+Logistic Regression,Negative,Negative,2120
+Logistic Regression,Negative,Positive,656
+Logistic Regression,Positive,Negative,602
+Logistic Regression,Positive,Positive,2622
+Random Forest,Negative,Negative,2072
+Random Forest,Negative,Positive,704
+Random Forest,Positive,Negative,620
+Random Forest,Positive,Positive,2604
